@@ -28,3 +28,5 @@ Tasks
 3.  Analyse Data Imbalance: Determine if there is data imbalance in the loan application dataset and calculate the ratio of data imbalance 
 4.  Perform Univariate, Segmented Univariate, and Bivariate Analysis
 5.  Identify Top Correlations for Different Scenarios
+
+DataSet link : - https://drive.google.com/file/d/1fAMb-6DrPuvBWNgncfk46OenMRbMvzMb/view?usp=sharing
